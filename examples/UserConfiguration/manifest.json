@@ -1,1 +1,1 @@
-{"files": {"8472996e303f7b2bc8147725ff69eb3836fb57f06cdc8713e2fe9d6c8dc7bd1c": {"name": "src/user/UserConfiguration.c", "asset_id": 17982325}}, "tag_name": "UserConfiguration", "release_id": 23617231}
+{"files": {"8472996e303f7b2bc8147725ff69eb3836fb57f06cdc8713e2fe9d6c8dc7bd1c": {"name": "src/user/UserConfiguration.c", "asset_id": 17982325}, "d9fc96eedac2a2b15ed5730d799c864fa974693249b613e71bdd5aae18fc4914": {"name": "src/user/UserConfiguration.h", "asset_id": 17982326}}, "tag_name": "UserConfiguration", "release_id": 23617231}
