@@ -1,1 +1,1 @@
-{"files": {"3a26a2e293f4abb3d11e71f67ee23add61344715d40cb708d2a207d40858333f": {"name": "ldscripts/stm32f40x.ld", "asset_id": 17981931}}, "tag_name": "stm32f40x", "release_id": 23616364}
+{"files": {"3a26a2e293f4abb3d11e71f67ee23add61344715d40cb708d2a207d40858333f": {"name": "ldscripts/stm32f40x.ld", "asset_id": 17981931}, "a8df36e268bae94af3661d4f4cf1b286de19080df1af2ab9d3ac5990624cb1cc": {"name": "ldscripts/stm32f40x.ld", "asset_id": 18009534}}, "tag_name": "stm32f40x", "release_id": 23616364}
